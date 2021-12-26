@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T14:19:29.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="v8LR_VzR707fdd9XmE26" type="github"><diagram id="R9nlCm6ZGH1GytE5Uyt-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-26T14:57:28.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MTPiES9gXQagL9tmlgsh" version="16.1.0" type="github">
+  <diagram id="R9nlCm6ZGH1GytE5Uyt-" name="Page-1">
+    <mxGraphModel dx="652" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4x6QZl92POG4wVmqEL3h-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.022;entryY=0.449;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4x6QZl92POG4wVmqEL3h-1" target="4x6QZl92POG4wVmqEL3h-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-1" value="Web GUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4x6QZl92POG4wVmqEL3h-2" target="4x6QZl92POG4wVmqEL3h-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="77.5" width="110" height="182.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/angular-128.png" vertex="1" parent="1">
+          <mxGeometry x="480" y="156" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="34.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="177" width="34.5" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4x6QZl92POG4wVmqEL3h-11" target="4x6QZl92POG4wVmqEL3h-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="117.5" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-14" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="366.75" y="156" width="46.5" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-17" value="API Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="209" width="70" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-18" value="Backend Microservices" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.25" y="217.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-23" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="145.75" width="42" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="4x6QZl92POG4wVmqEL3h-27" value="DynamoDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="121" y="187.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
